@@ -10,7 +10,6 @@ namespace WebApplication1
 {
     public class Startup
     {
-        //test
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
